@@ -12,4 +12,4 @@ Please insert your own Infura Key and Metamask mnemonic.
 
 **ERC-721 Token Symbol:** STN
 
-**“Token Address” on the Rinkeby Network:** 0x2EFcF98eEBaeD21d179eC84B976a37359F8C1077
+**Token Address on the Rinkeby Network:** 0x2EFcF98eEBaeD21d179eC84B976a37359F8C1077
