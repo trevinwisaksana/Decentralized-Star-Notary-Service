@@ -1,0 +1,8 @@
+{
+  "name": "nd1309-p2-Decentralized-Star-Notary-Service-Starter-Code-main",
+  "dependencies": {
+    "openzeppelin-solidity": "^4.1.0",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.2.1"
+  }
+}
