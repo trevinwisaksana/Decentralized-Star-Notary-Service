@@ -1,6 +1,6 @@
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 
-Please insert your own Infura Key and Metamas mnemonic.
+Please insert your own Infura Key and Metamask mnemonic.
 
 **Truffle version:** 5.3.9
 
