@@ -1,5 +1,7 @@
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 
+Please insert your own Infura Key and Metamas mnemonic.
+
 **Truffle version:** 5.3.9
 **OpenZeppelin version:** 4.1.0
 **Solidity Compiler version:** 0.8.0
